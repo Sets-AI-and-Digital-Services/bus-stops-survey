@@ -6,26 +6,27 @@ echo ""
 TARGET_DIR=$1
 PORT=$2
 REPO_URL="git@github.com:Sets-AI-and-Digital-Services/bus-stops-survey.git"
-
 BRANCH="adding-filter"
-SERVICE_NAME="uo_frontend_${PORT}.service"
+SERVICE_NAME="bus_stops_${PORT}.service"
 
 # Validate inputs
 if [ -z "$TARGET_DIR" ] || [ -z "$PORT" ]; then
     echo "❌ Error: Missing arguments."
     echo "✅ Correct usage: ./deploy-frontend.sh <TARGET_DIR> <PORT>"
-    echo "📌 Example: ./deploy-frontend.sh ~/frontend/uo_assistant_frontend 5175"
+    echo "📌 Example: ./deploy-frontend.sh ~/frontend/makkah-bus-stop 5170"
     exit 1
 fi
 
 # Clone or pull latest code
-if [ -d "$TARGET_DIR" ]; then
-    echo "⚠️ Directory $TARGET_DIR exists. Pulling latest changes..."
+if [ -d "$TARGET_DIR/.git" ]; then
+    echo "⚠️ Git repo exists at $TARGET_DIR. Pulling latest changes..."
     cd "$TARGET_DIR" || exit
+    git fetch origin
     git checkout "$BRANCH"
     git pull origin "$BRANCH"
 else
     echo "📦 Cloning project into $TARGET_DIR..."
+    rm -rf "$TARGET_DIR"   # remove empty or non-git folder
     git clone --branch "$BRANCH" "$REPO_URL" "$TARGET_DIR"
     cd "$TARGET_DIR" || exit
 fi
@@ -49,7 +50,7 @@ echo "🛠️ Creating systemd service: $SERVICE_NAME"
 
 cat <<EOF | sudo tee "$SERVICE_FILE" > /dev/null
 [Unit]
-Description=UO Frontend on port $PORT
+Description=bus-stops Frontend on port $PORT
 After=network.target
 
 [Service]
@@ -74,4 +75,3 @@ sudo systemctl restart "$SERVICE_NAME"
 # Check status
 echo "✅ Service $SERVICE_NAME started on port $PORT"
 sudo systemctl status "$SERVICE_NAME" --no-pager
-
