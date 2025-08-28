@@ -3,13 +3,15 @@ import { useFiltersStore } from '../../app/store/filters.store';
 import styleConfig from '../../config/style.config.json';
 
 export default function Legend() {
-  const axis = useFiltersStore(s => s.axis);
-  const active = useFiltersStore(s => s.activeBuckets);
-  const toggle = useFiltersStore(s => s.toggleBucket);
-  const reset = useFiltersStore(s => s.resetBuckets);
+  const axis = useFiltersStore((s) => s.axis);
+  const active = useFiltersStore((s) => s.activeBuckets);
+  const toggle = useFiltersStore((s) => s.toggleBucket);
+  const reset = useFiltersStore((s) => s.resetBuckets);
 
   // reset selection whenever the axis changes
-  useEffect(() => { reset(); }, [axis, reset]);
+  useEffect(() => {
+    reset();
+  }, [axis, reset]);
 
   const def = (styleConfig as any).evaluations?.[axis];
   if (!def || def.type !== 'enum') return null;
@@ -20,50 +22,34 @@ export default function Legend() {
   const isSelected = (b: string) => active == null || active.includes(b);
 
   return (
-    <div>
-      <div style={{ fontWeight: 600, marginBottom: 6 }}>
+    <div className="bg-white/80 dark:bg-gray-800/80 rounded-xl p-4 shadow-md backdrop-blur">
+      <div className="font-semibold text-sm text-gray-700 dark:text-gray-200 mb-3">
         Legend: {def.label ?? axis}
       </div>
-
-      <div className="legend" style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
-        {/* All */}
+      <div className="flex flex-wrap gap-2">
         <button
-          type="button"
           onClick={() => reset()}
-          style={{
-            cursor: 'pointer',
-            padding: '4px 8px',
-            borderRadius: 6,
-            border: '1px solid #ccc',
-            background: active == null ? '#eee' : '#fff',
-            fontWeight: active == null ? 600 : 400,
-          }}
-          title="Show all buckets"
+          className={`px-3 py-1.5 rounded-lg border text-sm font-medium transition ${
+            active == null
+              ? 'bg-blue-100 text-blue-800 border-blue-300'
+              : 'bg-white dark:bg-gray-700 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-200'
+          }`}
         >
           All
         </button>
 
-        {buckets.map((b: string, i: number) => (
+        {buckets.map((b, i) => (
           <button
-            type="button"
             key={b}
             onClick={() => toggle(b, buckets)}
-            style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: 6,
-              cursor: 'pointer',
-              padding: '4px 8px',
-              borderRadius: 6,
-              border: isSelected(b) ? `2px solid ${colors[i]}` : '1px solid #ccc',
-              background: isSelected(b) ? '#f7f7f7' : '#fff',
-              fontWeight: isSelected(b) ? 600 : 400,
-            }}
-            title={`Toggle: ${b}`}
+            className={`flex items-center gap-2 px-3 py-1.5 rounded-lg border text-sm font-medium transition ${
+              isSelected(b)
+                ? 'bg-gray-100 dark:bg-gray-700 border-2'
+                : 'bg-white dark:bg-gray-800 border'
+            }`}
+            style={isSelected(b) ? { borderColor: colors[i] } : {}}
           >
-            <span
-              style={{ display: 'inline-block', width: 12, height: 12, borderRadius: 12, background: colors[i] }}
-            />
+            <span className="w-3 h-3 rounded-full" style={{ background: colors[i] }} />
             {b}
           </button>
         ))}
