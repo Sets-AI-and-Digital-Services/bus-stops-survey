@@ -11,6 +11,8 @@ import { useFiltersStore } from '../../app/store/filters.store';
 // axis-specific mapping so TVM uses "N/A" instead of "Unrated"
 function toBucketForAxis(axis: string, raw: unknown): string {
   const norm = normalizeCategory(raw);
+  console.log(norm);
+  
   return axis === '17._ticket_vending_machine_tvm' && norm === 'Unrated' ? 'N/A' : norm;
 }
 

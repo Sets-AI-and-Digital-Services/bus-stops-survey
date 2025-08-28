@@ -24,7 +24,7 @@ export default function Legend() {
   return (
     <div className="bg-white/80 dark:bg-gray-800/80 rounded-xl p-4 shadow-md backdrop-blur">
       <div className="font-semibold text-sm text-gray-700 dark:text-gray-200 mb-3">
-        Legend: {def.label ?? axis}
+        Legend: {axis}
       </div>
       <div className="flex flex-wrap gap-2">
         <button
