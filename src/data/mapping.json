@@ -1,0 +1,35 @@
+{
+"stationNameColumn": "Station/Terminal Name / اسم المحطة/ الموقف ",
+"routeColumn": "Route Number / رقم المسار ",
+"idKeyInStops": "stop_id",
+"nameKeyInStops": "stop_name",
+"latKeyInStops": "stop_lat",
+"lonKeyInStops": "stop_lon",
+"evaluationColumns": [
+{ "source": "1. General Cleanliness / النظافة العامة", "target": "cleanliness", "type": "enum" },
+{ "source": "2. Traffic Sign boards / لوحات المرور التحذيرية ", "target": "traffic_signs", "type": "enum" },
+{ "source": "3. Advertisement board / اللوحة الإعلانية ", "target": "ads_board", "type": "enum" },
+{ "source": " 4. Passengers Information board / لوحة المعلومات للركاب ", "target": "info_board", "type": "enum" },
+{ "source": " 5. Arrival Time Display / شاشة موعد الوصول ", "target": "arrival_display", "type": "enum" },
+{ "source": "6. Bus Stop bench Condition / حالة مقعد موقف الحافلات ", "target": "bench", "type": "enum" },
+{ "source": "7. Red Carpet Status /حالة دهان/أرضية موقف الحافلات ", "target": "floor_paint", "type": "enum" },
+{ "source": "8. Lighting Condition / حالة الاضاءة ", "target": "lighting", "type": "enum" },
+{ "source": "9. Shelter / مظلة ", "target": "shelter", "type": "enum" },
+{ "source": "10. Safety Barriers / الحواجز الأمنية ", "target": "barriers", "type": "enum" },
+{ "source": "11. Seating Availability / عدد المقاعد ", "target": "seating", "type": "enum" },
+{ "source": "12. Air Conditioning / تكييف الهواء", "target": "ac", "type": "enum" },
+{ "source": "13. CCTV / Camera System Status / حالة كاميرات المراقبة ", "target": "cctv", "type": "enum" },
+{ "source": "14. Pedestrian Safety / ممرات للمشاة ", "target": "pedestrian", "type": "enum" },
+{ "source": "15. Accessible for Special Needs / ممر ذوي الاحتياجات الخاصة ", "target": "accessible", "type": "enum" },
+{ "source": "16. Trash Bins / حاويات/ صناديق القمامة", "target": "trash_bins", "type": "enum" },
+{ "source": "17. Ticket Vending Machine (TVM) / جهاز بيع التذاكر الآلي", "target": "tvm", "type": "enum" }
+],
+"metaColumns": [
+"Comments / ملاحظات ",
+"Comments / ملاحظات .1",
+"Comments / ملاحظات .2",
+"Comments / ملاحظات .3",
+"Comments / ملاحظات .4",
+"Comments / ملاحظات .5"
+]
+}

@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "10-4",
+    "name": "Al-Hajj road  110",
+    "lat": 21.45643,
+    "lon": 39.81361
+  },
+  {
+    "id": "10-3",
+    "name": "Al-Hajj road  111",
+    "lat": 21.4564,
+    "lon": 39.81324
+  },
+  {
+    "id": "10-2",
+    "name": "Al-Hajj road  114",
+    "lat": 21.44957,
+    "lon": 39.81016
+  },
+  {
+    "id": "10-9",
+    "name": "Al-Hajj road  119",
+    "lat": 21.4693,
+    "lon": 39.82775
+  },
+  {
+    "id": "10-8",
+    "name": "Al-Hajj road  118",
+    "lat": 21.46467,
+    "lon": 39.82289
+  },
+  {
+    "id": "10-7",
+    "name": "Al-Hajj road  117",
+    "lat": 21.46577,
+    "lon": 39.8241
+  },
+  {
+    "id": "10-6",
+    "name": "Al-Hajj road  116",
+    "lat": 21.4593,
+    "lon": 39.81565
+  },
+  {
+    "id": "9-10",
+    "name": "Al-Khadrah 376",
+    "lat": 21.47293,
+    "lon": 39.92778
+  },
+  {
+    "id": "9-13",
+    "name": "Al-Khadrah 373",
+    "lat": 21.47684,
+    "lon": 39.92393
+  },
+  {
+    "id": "9-14",
+    "name": "Ash Shara'i 502",
+    "lat": 21.46264,
+    "lon": 39.94617
+  },
+  {
+    "id": "9-11",
+    "name": "Al-Khadrah 375",
+    "lat": 21.47349,
+    "lon": 39.92805
+  },
+  {
+    "id": "9-12",
+    "name": "Al-Khadrah 374",
+    "lat": 21.47661,
+    "lon": 39.92459
+  },
+  {
+    "id": "7-77",
+    "name": "Al-Haramain Train Station",
+    "lat": 21.41644,
+    "lon": 39.78935
+  },
+  {
+    "id": "9-28",
+    "name": "Azizyah 186",
+    "lat": 21.39637,
+    "lon": 39.86891
+  },
+  {
+    "id": "9-29",
+    "name": "Azizyah 454",
+    "lat": 21.39693,
+    "lon": 39.87005
+  },
+  {
+    "id": "9-20",
+    "name": "Azizyah 185",
+    "lat": 21.40029,
+    "lon": 39.87134
+  },
+  {
+    "id": "9-21",
+    "name": "Azizyah 187",
+    "lat": 21.39968,
+    "lon": 39.87158
+  },
+  {
+    "id": "9-24",
+    "name": "Azizyah 183",
+    "lat": 21.39131,
+    "lon": 39.88314
+  },
+  {
+    "id": "9-25",
+    "name": "Azizyah 182",
+    "lat": 21.39146,
+    "lon": 39.88275
+  },
+  {
+    "id": "6-5",
+    "name": "Azizyah 171",
+    "lat": 21.41752,
+    "lon": 39.85489
+  },
+  {
+    "id": "6-7",
+    "name": "Azizyah 173",
+    "lat": 21.41266,
+    "lon": 39.85808
+  },
+  {
+    "id": "6-9",
+    "name": "Azizyah 177",
+    "lat": 21.39945,
+    "lon": 39.86489
+  },
+  {
+    "id": "9-30",
+    "name": "Ash Shara'i 391",
+    "lat": 21.48252,
+    "lon": 39.91866
+  },
+  {
+    "id": "9-35",
+    "name": "Ash Shara’I 500",
+    "lat": 21.45642,
+    "lon": 39.9537
+  },
+  {
+    "id": "9-36",
+    "name": "Ash Shara’I 501",
+    "lat": 21.45726,
+    "lon": 39.95437
+  },
+  {
+    "id": "5-1",
+    "name": "Al-Awali 409",
+    "lat": 21.35548,
+    "lon": 39.87837
+  },
+  {
+    "id": "5-2",
+    "name": "Al-Awali 408",
+    "lat": 21.35613,
+    "lon": 39.87735
+  },
+  {
+    "id": "5-3",
+    "name": "Al-Awali 411",
+    "lat": 21.35582,
+    "lon": 39.88312
+  },
+  {
+    "id": "5-4",
+    "name": "Al-Awali 410",
+    "lat": 21.35628,
+    "lon": 39.88392
+  },
+  {
+    "id": "5-5",
+    "name": "Al-Awali 413",
+    "lat": 21.35569,
+    "lon": 39.88875
+  },
+  {
+    "id": "5-6",
+    "name": "Al-Awali 412",
+    "lat": 21.35569,
+    "lon": 39.88956
+  },
+  {
+    "id": "5-7",
+    "name": "Al-Awali 415",
+    "lat": 21.35377,
+    "lon": 39.89359
+  },
+  {
+    "id": "5-8",
+    "name": "Al-Awali 414",
+    "lat": 21.35394,
+    "lon": 39.89397
+  },
+  {
+    "id": "5-9",
+    "name": "Al-Assaf Mosque 416",
+    "lat": 21.35202,
+    "lon": 39.89807
+  },
+  {
+    "id": "0-01",
+    "name": "Terminal 1, Jabal Alka'bah",
+    "lat": 21.43138,
+    "lon": 39.8165
+  },
+  {
+    "id": "0-02",
+    "name": "Terminal 2, Almarwah",
+    "lat": 21.43029,
+    "lon": 39.82937
+  },
+  {
+    "id": "0-03",
+    "name": "Terminal 3, Ibrahim Alkhalil",
+    "lat": 21.41579,
+    "lon": 39.82289
+  },
+  {
+    "id": "8-91",
+    "name": "Om Al Jood",
+    "lat": 21.43109,
+    "lon": 39.74809
+  },
+  {
+    "id": "0-04",
+    "name": "Terminal 4, Ajyad",
+    "lat": 21.41533,
+    "lon": 39.82706
+  },
+  {
+    "id": "4-1",
+    "name": "Al-Masjid Al-Haram road 145",
+    "lat": 21.44011,
+    "lon": 39.84224
+  },
+  {
+    "id": "4-3",
+    "name": "Al-Masjid Al-Haram road 147",
+    "lat": 21.4362,
+    "lon": 39.84744
+  },
+  {
+    "id": "4-4",
+    "name": "Al-Masjid Al-Haram road 146",
+    "lat": 21.43584,
+    "lon": 39.84789
+  },
+  {
+    "id": "4-5",
+    "name": "Al-Masjid Al-Haram road 149",
+    "lat": 21.42978,
+    "lon": 39.85331
+  },
+  {
+    "id": "4-6",
+    "name": "Al-Masjid Al-Haram road 148",
+    "lat": 21.43013,
+    "lon": 39.85361
+  },
+  {
+    "id": "4-7",
+    "name": "Al-Masjid Al-Haram road 438",
+    "lat": 21.42578,
+    "lon": 39.85671
+  },
+  {
+    "id": "4-9",
+    "name": "Al-Masjid Al-Haram road 450",
+    "lat": 21.42203,
+    "lon": 39.8562
+  },
+  {
+    "id": "3-1",
+    "name": "Kudai 26",
+    "lat": 21.39363,
+    "lon": 39.82546
+  },
+  {
+    "id": "3-2",
+    "name": "Kudai 29",
+    "lat": 21.3938,
+    "lon": 39.82605
+  },
+  {
+    "id": "3-3",
+    "name": "Kudai 27",
+    "lat": 21.39873,
+    "lon": 39.82689
+  },
+  {
+    "id": "3-4",
+    "name": "Kudai 31",
+    "lat": 21.38853,
+    "lon": 39.82576
+  },
+  {
+    "id": "3-5",
+    "name": "Zat Al-Nitaqain 214",
+    "lat": 21.37863,
+    "lon": 39.83211
+  },
+  {
+    "id": "3-6",
+    "name": "Zat Al-Nitaqain 211",
+    "lat": 21.379,
+    "lon": 39.83241
+  },
+  {
+    "id": "3-7",
+    "name": "Zat Al-Nitaqain 216",
+    "lat": 21.37521,
+    "lon": 39.83455
+  },
+  {
+    "id": "3-8",
+    "name": "Zat Al-Nitaqain 213",
+    "lat": 21.37606,
+    "lon": 39.83456
+  },
+  {
+    "id": "3-9",
+    "name": "Zat Al-Nitaqain 218",
+    "lat": 21.3718,
+    "lon": 39.83711
+  },
+  {
+    "id": "1-11",
+    "name": "Al-Fayhaa 307",
+    "lat": 21.44621,
+    "lon": 39.76314
+  },
+  {
+    "id": "1-12",
+    "name": "Al-Fayhaa 310",
+    "lat": 21.45686,
+    "lon": 39.76194
+  },
+  {
+    "id": "1-10",
+    "name": "Al-Fayhaa 306",
+    "lat": 21.4463,
+    "lon": 39.76351
+  },
+  {
+    "id": "1-24",
+    "name": "Al-Taawun Mosque 230",
+    "lat": 21.35697,
+    "lon": 39.8259
+  },
+  {
+    "id": "1-25",
+    "name": "Bathaa Quraish 227",
+    "lat": 21.35826,
+    "lon": 39.82462
+  },
+  {
+    "id": "1-20",
+    "name": "Kudai 204",
+    "lat": 21.38645,
+    "lon": 39.82289
+  },
+  {
+    "id": "1-19",
+    "name": "Al-Ehsan Mosque 205",
+    "lat": 21.39551,
+    "lon": 39.79798
+  },
+  {
+    "id": "1-17",
+    "name": "MRDA 207",
+    "lat": 21.39654,
+    "lon": 39.79198
+  },
+  {
+    "id": "1-18",
+    "name": "Al-Khalidyia 208",
+    "lat": 21.39603,
+    "lon": 39.8018
+  },
+  {
+    "id": "2-1",
+    "name": "An Nawwariyyah 354",
+    "lat": 21.57597,
+    "lon": 39.76549
+  },
+  {
+    "id": "2-2",
+    "name": "An Nawwariyyah 353",
+    "lat": 21.57644,
+    "lon": 39.76394
+  },
+  {
+    "id": "1-16",
+    "name": "Al-Khalidyia 210",
+    "lat": 21.39667,
+    "lon": 39.79421
+  },
+  {
+    "id": "2-4",
+    "name": "An Nawwariyyah 351",
+    "lat": 21.57185,
+    "lon": 39.76941
+  },
+  {
+    "id": "2-7",
+    "name": "An Nawwariyyah 348",
+    "lat": 21.56149,
+    "lon": 39.77404
+  },
+  {
+    "id": "2-8",
+    "name": "An Nawwariyyah 347",
+    "lat": 21.55708,
+    "lon": 39.77416
+  },
+  {
+    "id": "1-31",
+    "name": "Al-Kakiyyah 300",
+    "lat": 21.38824,
+    "lon": 39.81564
+  },
+  {
+    "id": "1-30",
+    "name": "Al-Fayhaa 311",
+    "lat": 21.45716,
+    "lon": 39.7617
+  },
+  {
+    "id": "1-28",
+    "name": "Bathaa Quraish 234",
+    "lat": 21.36052,
+    "lon": 39.83557
+  },
+  {
+    "id": "1-29",
+    "name": "Bathaa Quraish 231",
+    "lat": 21.36144,
+    "lon": 39.83604
+  },
+  {
+    "id": "1-26",
+    "name": "Bathaa Quraish 232",
+    "lat": 21.35731,
+    "lon": 39.83055
+  },
+  {
+    "id": "1-27",
+    "name": "Bathaa Quraish 229",
+    "lat": 21.35768,
+    "lon": 39.83006
+  },
+  {
+    "id": "2-15",
+    "name": "Al-Umrah  344",
+    "lat": 21.53752,
+    "lon": 39.78035
+  },
+  {
+    "id": "2-14",
+    "name": "Al-Umrah  341",
+    "lat": 21.54235,
+    "lon": 39.77831
+  },
+  {
+    "id": "2-13",
+    "name": "Al-Umrah  346",
+    "lat": 21.54185,
+    "lon": 39.77911
+  },
+  {
+    "id": "2-12",
+    "name": "Al-Umrah  343",
+    "lat": 21.54891,
+    "lon": 39.77634
+  },
+  {
+    "id": "2-10",
+    "name": "An Nawwariyyah 345",
+    "lat": 21.55345,
+    "lon": 39.7751
+  },
+  {
+    "id": "1-1",
+    "name": "Al-Buhayrat 320",
+    "lat": 21.4802,
+    "lon": 39.79143
+  },
+  {
+    "id": "1-2",
+    "name": "Al-Buhayrat 318",
+    "lat": 21.47713,
+    "lon": 39.79209
+  },
+  {
+    "id": "1-3",
+    "name": "Al-Buhayrat 317",
+    "lat": 21.47398,
+    "lon": 39.79128
+  },
+  {
+    "id": "1-4",
+    "name": "Al-Buhayrat 316",
+    "lat": 21.47132,
+    "lon": 39.79055
+  },
+  {
+    "id": "1-5",
+    "name": "Al-Buhayrat 315",
+    "lat": 21.4703,
+    "lon": 39.78924
+  },
+  {
+    "id": "1-6",
+    "name": "Al-Buhayrat 312",
+    "lat": 21.46644,
+    "lon": 39.77928
+  },
+  {
+    "id": "1-7",
+    "name": "Al-Buhayrat 313",
+    "lat": 21.46677,
+    "lon": 39.78095
+  },
+  {
+    "id": "1-8",
+    "name": "Al-Fayhaa 308",
+    "lat": 21.45347,
+    "lon": 39.76097
+  },
+  {
+    "id": "1-9",
+    "name": "Al-Fayhaa 309",
+    "lat": 21.45166,
+    "lon": 39.76127
+  },
+  {
+    "id": "2-21",
+    "name": "Al-Eslahyia 338",
+    "lat": 21.52466,
+    "lon": 39.78893
+  },
+  {
+    "id": "2-20",
+    "name": "Al-Umrah  337",
+    "lat": 21.52845,
+    "lon": 39.78526
+  },
+  {
+    "id": "2-19",
+    "name": "Al-Umrah  340",
+    "lat": 21.52903,
+    "lon": 39.78583
+  },
+  {
+    "id": "2-18",
+    "name": "Al-Umrah  339",
+    "lat": 21.53162,
+    "lon": 39.78302
+  },
+  {
+    "id": "2-17",
+    "name": "Al-Umrah  342",
+    "lat": 21.53308,
+    "lon": 39.78299
+  },
+  {
+    "id": "2-36",
+    "name": "Heraa Hospital 327",
+    "lat": 21.48546,
+    "lon": 39.79415
+  },
+  {
+    "id": "2-35",
+    "name": "College of Technology - Boys 328",
+    "lat": 21.4857,
+    "lon": 39.79472
+  },
+  {
+    "id": "2-34",
+    "name": "Industrial city 329",
+    "lat": 21.489,
+    "lon": 39.79352
+  },
+  {
+    "id": "2-33",
+    "name": "At Taniem 330",
+    "lat": 21.49022,
+    "lon": 39.79404
+  },
+  {
+    "id": "2-32",
+    "name": "At Taniem 331",
+    "lat": 21.49818,
+    "lon": 39.79265
+  },
+  {
+    "id": "2-31",
+    "name": "At Taniem 332",
+    "lat": 21.49586,
+    "lon": 39.79344
+  },
+  {
+    "id": "2-30",
+    "name": "At Taniem 333",
+    "lat": 21.50305,
+    "lon": 39.79212
+  },
+  {
+    "id": "2-29",
+    "name": "At Taniem 334",
+    "lat": 21.50345,
+    "lon": 39.79278
+  },
+  {
+    "id": "2-28",
+    "name": "At Taniem 335",
+    "lat": 21.50773,
+    "lon": 39.79165
+  },
+  {
+    "id": "2-27",
+    "name": "Al-Umrah  Municipality 336",
+    "lat": 21.5079,
+    "lon": 39.79231
+  },
+  {
+    "id": "2-48",
+    "name": "Al-Zaher 103",
+    "lat": 21.44735,
+    "lon": 39.80859
+  },
+  {
+    "id": "3-16",
+    "name": "Bathaa Quraish 221",
+    "lat": 21.36604,
+    "lon": 39.82722
+  },
+  {
+    "id": "2-47",
+    "name": "Ash Shuhadaa 104",
+    "lat": 21.44903,
+    "lon": 39.80879
+  },
+  {
+    "id": "3-15",
+    "name": "Bathaa Quraish 224",
+    "lat": 21.36632,
+    "lon": 39.8271
+  },
+  {
+    "id": "3-14",
+    "name": "Bathaa Quraish 219",
+    "lat": 21.36593,
+    "lon": 39.83273
+  },
+  {
+    "id": "2-45",
+    "name": "Ash Shuhadaa 108",
+    "lat": 21.4603,
+    "lon": 39.80746
+  },
+  {
+    "id": "3-13",
+    "name": "Bathaa Quraish 222",
+    "lat": 21.36753,
+    "lon": 39.83466
+  },
+  {
+    "id": "2-44",
+    "name": "Ash Shuhadaa 107",
+    "lat": 21.45891,
+    "lon": 39.8066
+  },
+  {
+    "id": "3-12",
+    "name": "Bathaa Quraish 217",
+    "lat": 21.3687,
+    "lon": 39.8377
+  },
+  {
+    "id": "3-11",
+    "name": "Bathaa Quraish 220",
+    "lat": 21.36888,
+    "lon": 39.83757
+  },
+  {
+    "id": "3-10",
+    "name": "Zat Al-Nitaqain 215",
+    "lat": 21.3717,
+    "lon": 39.83777
+  },
+  {
+    "id": "2-51",
+    "name": "Um Al-Quraa University 97",
+    "lat": 21.43973,
+    "lon": 39.81016
+  },
+  {
+    "id": "10-32",
+    "name": "Al-Adel 360",
+    "lat": 21.44983,
+    "lon": 39.86455
+  },
+  {
+    "id": "10-31",
+    "name": "Jabal Al-Nour 359",
+    "lat": 21.45146,
+    "lon": 39.86534
+  },
+  {
+    "id": "2-59",
+    "name": "An Nawwariyyah 355",
+    "lat": 21.55779,
+    "lon": 39.77492
+  },
+  {
+    "id": "2-58",
+    "name": "Al-Hujun 75",
+    "lat": 21.43548,
+    "lon": 39.81695
+  },
+  {
+    "id": "2-55",
+    "name": "Al-Zaher 94",
+    "lat": 21.43519,
+    "lon": 39.8128
+  },
+  {
+    "id": "3-20",
+    "name": "Bathaa Quraish 225",
+    "lat": 21.36073,
+    "lon": 39.82274
+  },
+  {
+    "id": "3-19",
+    "name": "Bathaa Quraish 228",
+    "lat": 21.36038,
+    "lon": 39.82233
+  },
+  {
+    "id": "3-18",
+    "name": "Bathaa Quraish 223",
+    "lat": 21.3635,
+    "lon": 39.8226
+  },
+  {
+    "id": "3-17",
+    "name": "Bathaa Quraish 226",
+    "lat": 21.36396,
+    "lon": 39.82218
+  },
+  {
+    "id": "10-38",
+    "name": "Jabal Alnoor 365",
+    "lat": 21.4562,
+    "lon": 39.87912
+  },
+  {
+    "id": "10-37",
+    "name": "Jabal Al-Nour 361",
+    "lat": 21.45517,
+    "lon": 39.87588
+  },
+  {
+    "id": "10-39",
+    "name": "Jabal Al-Nour 362",
+    "lat": 21.45805,
+    "lon": 39.88102
+  },
+  {
+    "id": "2-60",
+    "name": "An Nawwariyyah 366",
+    "lat": 21.55202,
+    "lon": 39.77643
+  },
+  {
+    "id": "11-13",
+    "name": "Al-Kakiyyah 244",
+    "lat": 21.37296,
+    "lon": 39.80415
+  },
+  {
+    "id": "3-38",
+    "name": "Al-Ekaishia 241",
+    "lat": 21.36814,
+    "lon": 39.80357
+  },
+  {
+    "id": "3-37",
+    "name": "Al-Ekaishia 239",
+    "lat": 21.36345,
+    "lon": 39.80322
+  },
+  {
+    "id": "3-36",
+    "name": "Al-Ekaishia 240",
+    "lat": 21.36317,
+    "lon": 39.80255
+  },
+  {
+    "id": "3-35",
+    "name": "Al-Ekaishia 237",
+    "lat": 21.35737,
+    "lon": 39.80315
+  },
+  {
+    "id": "3-34",
+    "name": "Al-Ekaishia 238",
+    "lat": 21.3576,
+    "lon": 39.8025
+  },
+  {
+    "id": "3-32",
+    "name": "Bin Muaamar Mosque 233",
+    "lat": 21.3557,
+    "lon": 39.82152
+  },
+  {
+    "id": "3-31",
+    "name": "Bathaa Quraish 236",
+    "lat": 21.35715,
+    "lon": 39.8218
+  },
+  {
+    "id": "3-29",
+    "name": "Bathaa Quraish 235",
+    "lat": 21.35328,
+    "lon": 39.81955
+  },
+  {
+    "id": "11-14",
+    "name": "Al-Kakiyyah 243",
+    "lat": 21.37275,
+    "lon": 39.80481
+  },
+  {
+    "id": "4-10",
+    "name": "Al-Masjid Al-Haram road 153",
+    "lat": 21.42007,
+    "lon": 39.85825
+  },
+  {
+    "id": "4-11",
+    "name": "Al-Masjid Al-Haram road 154",
+    "lat": 21.41507,
+    "lon": 39.86206
+  },
+  {
+    "id": "4-12",
+    "name": "Al-Masjid Al-Haram road 155",
+    "lat": 21.41721,
+    "lon": 39.86083
+  },
+  {
+    "id": "4-13",
+    "name": "Al-Masjid Al-Haram road 156",
+    "lat": 21.41128,
+    "lon": 39.86574
+  },
+  {
+    "id": "4-14",
+    "name": "Al-Masjid Al-Haram road 157",
+    "lat": 21.4111,
+    "lon": 39.86668
+  },
+  {
+    "id": "10-10",
+    "name": "Al-Hajj road  120",
+    "lat": 21.46907,
+    "lon": 39.82816
+  },
+  {
+    "id": "4-15",
+    "name": "Al-Masjid Al-Haram road 158",
+    "lat": 21.40594,
+    "lon": 39.87149
+  },
+  {
+    "id": "4-82",
+    "name": "Al-Masjid Al-Haram Road 159",
+    "lat": 21.42244,
+    "lon": 39.85667
+  },
+  {
+    "id": "4-78",
+    "name": "Al-Masjid Al-Haram Road 160",
+    "lat": 21.39457,
+    "lon": 39.89258
+  },
+  {
+    "id": "3-39",
+    "name": "Al-Ekaishia 242",
+    "lat": 21.36713,
+    "lon": 39.80396
+  },
+  {
+    "id": "10-14",
+    "name": "Al-Hajj road  122",
+    "lat": 21.47643,
+    "lon": 39.83614
+  },
+  {
+    "id": "10-13",
+    "name": "Al-Hajj road  123",
+    "lat": 21.47708,
+    "lon": 39.83734
+  },
+  {
+    "id": "10-16",
+    "name": "Al-Hajj road  124",
+    "lat": 21.47645,
+    "lon": 39.84234
+  },
+  {
+    "id": "10-15",
+    "name": "Al-Hajj road  125",
+    "lat": 21.47762,
+    "lon": 39.84141
+  },
+  {
+    "id": "10-18",
+    "name": "Al-Hajj road  127",
+    "lat": 21.47165,
+    "lon": 39.84334
+  },
+  {
+    "id": "10-17",
+    "name": "Al-Hajj road  126",
+    "lat": 21.4722,
+    "lon": 39.84282
+  },
+  {
+    "id": "4-34",
+    "name": "Azizyah 190",
+    "lat": 21.38372,
+    "lon": 39.86533
+  },
+  {
+    "id": "4-23",
+    "name": "Aziziyah 180",
+    "lat": 21.39533,
+    "lon": 39.88332
+  },
+  {
+    "id": "4-24",
+    "name": "Aziziyah 181",
+    "lat": 21.39456,
+    "lon": 39.88338
+  },
+  {
+    "id": "10-23",
+    "name": "Al-Hajj road  133",
+    "lat": 21.45352,
+    "lon": 39.84656
+  },
+  {
+    "id": "4-28",
+    "name": "King Abdullah Medical City 184",
+    "lat": 21.38591,
+    "lon": 39.88018
+  },
+  {
+    "id": "10-22",
+    "name": "Al-Hajj road  130",
+    "lat": 21.45922,
+    "lon": 39.84392
+  },
+  {
+    "id": "3-59",
+    "name": "Al Shoqiyah 279",
+    "lat": 21.38749,
+    "lon": 39.79618
+  },
+  {
+    "id": "3-58",
+    "name": "Al Shoqiyah 280",
+    "lat": 21.38809,
+    "lon": 39.7966
+  },
+  {
+    "id": "3-57",
+    "name": "Al Shoqiyah 277",
+    "lat": 21.38252,
+    "lon": 39.79497
+  },
+  {
+    "id": "3-56",
+    "name": "Al Shoqiyah 278",
+    "lat": 21.38177,
+    "lon": 39.79523
+  },
+  {
+    "id": "3-55",
+    "name": "Zainab Al-Hilalyia Walkway 275",
+    "lat": 21.37924,
+    "lon": 39.79475
+  },
+  {
+    "id": "3-54",
+    "name": "Al Showqiyah 294",
+    "lat": 21.37932,
+    "lon": 39.79508
+  },
+  {
+    "id": "4-20",
+    "name": "Al-Masjid Al-Haram road 163",
+    "lat": 21.40064,
+    "lon": 39.8806
+  },
+  {
+    "id": "4-18",
+    "name": "Al-Masjid Al-Haram road 161",
+    "lat": 21.40272,
+    "lon": 39.87679
+  },
+  {
+    "id": "10-25",
+    "name": "Al-Hajj road135",
+    "lat": 21.44698,
+    "lon": 39.84968
+  },
+  {
+    "id": "4-19",
+    "name": "Al-Masjid Al-Haram road 162",
+    "lat": 21.40003,
+    "lon": 39.88073
+  },
+  {
+    "id": "10-27",
+    "name": "Jabal Al-Nour 355",
+    "lat": 21.44564,
+    "lon": 39.86033
+  },
+  {
+    "id": "10-26",
+    "name": "Al-Hajj road  134",
+    "lat": 21.44699,
+    "lon": 39.85026
+  },
+  {
+    "id": "10-28",
+    "name": "Al-Adel 356",
+    "lat": 21.44386,
+    "lon": 39.85957
+  },
+  {
+    "id": "4-32",
+    "name": "Al-Sanousi Mosque 188",
+    "lat": 21.383,
+    "lon": 39.86854
+  },
+  {
+    "id": "4-33",
+    "name": "Al-Naseem 189",
+    "lat": 21.3826,
+    "lon": 39.87106
+  },
+  {
+    "id": "3-61",
+    "name": "Al Shoqiyah 281",
+    "lat": 21.3926,
+    "lon": 39.79698
+  },
+  {
+    "id": "3-60",
+    "name": "Al Shoqiyah 282",
+    "lat": 21.39193,
+    "lon": 39.79723
+  },
+  {
+    "id": "4-36",
+    "name": "Al-Nour Specialist Hospital 192",
+    "lat": 21.38672,
+    "lon": 39.86132
+  },
+  {
+    "id": "4-37",
+    "name": "Al-Nour Specialist Hospital 191",
+    "lat": 21.387,
+    "lon": 39.86034
+  },
+  {
+    "id": "4-38",
+    "name": "Shaheed Al-Mihrab Mosque 194",
+    "lat": 21.38992,
+    "lon": 39.84668
+  },
+  {
+    "id": "4-39",
+    "name": "Jabal Thor 195",
+    "lat": 21.39012,
+    "lon": 39.84833
+  },
+  {
+    "id": "3-69",
+    "name": "Al-Mansour 43",
+    "lat": 21.40098,
+    "lon": 39.80967
+  },
+  {
+    "id": "3-68",
+    "name": "Al-Mansour 40",
+    "lat": 21.4014,
+    "lon": 39.80989
+  },
+  {
+    "id": "4-29",
+    "name": "King Abdullah Medical City 185",
+    "lat": 21.38514,
+    "lon": 39.87945
+  },
+  {
+    "id": "3-74",
+    "name": "Al-Mansour 48",
+    "lat": 21.41552,
+    "lon": 39.80707
+  },
+  {
+    "id": "5-11",
+    "name": "Al-Awali 419",
+    "lat": 21.34978,
+    "lon": 39.90509
+  },
+  {
+    "id": "4-44",
+    "name": "Girls Schools Complex 200",
+    "lat": 21.38519,
+    "lon": 39.83554
+  },
+  {
+    "id": "3-73",
+    "name": "Al-Mansour 47",
+    "lat": 21.40665,
+    "lon": 39.80883
+  },
+  {
+    "id": "5-12",
+    "name": "Al-Awali 418",
+    "lat": 21.35002,
+    "lon": 39.90411
+  },
+  {
+    "id": "4-45",
+    "name": "Girls Schools Complex 199",
+    "lat": 21.38485,
+    "lon": 39.83595
+  },
+  {
+    "id": "3-72",
+    "name": "Al-Mansour 44",
+    "lat": 21.40817,
+    "lon": 39.80891
+  },
+  {
+    "id": "5-13",
+    "name": "Al-Awali 421",
+    "lat": 21.35488,
+    "lon": 39.91012
+  },
+  {
+    "id": "4-46",
+    "name": "Al-Hijrah 202",
+    "lat": 21.3844,
+    "lon": 39.83152
+  },
+  {
+    "id": "5-14",
+    "name": "Al-Awali 420",
+    "lat": 21.35391,
+    "lon": 39.90943
+  },
+  {
+    "id": "4-47",
+    "name": "Al-Hijrah 201",
+    "lat": 21.38429,
+    "lon": 39.82973
+  },
+  {
+    "id": "3-70",
+    "name": "Al-Mansour 42",
+    "lat": 21.40449,
+    "lon": 39.80949
+  },
+  {
+    "id": "5-15",
+    "name": "Al-Awali 423",
+    "lat": 21.35829,
+    "lon": 39.91064
+  },
+  {
+    "id": "5-16",
+    "name": "Al-Awali 422",
+    "lat": 21.35785,
+    "lon": 39.91088
+  },
+  {
+    "id": "5-17",
+    "name": "Al-Awali 396",
+    "lat": 21.35931,
+    "lon": 39.90982
+  },
+  {
+    "id": "3-79",
+    "name": "Al-Mansour 57",
+    "lat": 21.42628,
+    "lon": 39.80669
+  },
+  {
+    "id": "4-40",
+    "name": "Al-Hijrh 196",
+    "lat": 21.3895,
+    "lon": 39.84329
+  },
+  {
+    "id": "4-41",
+    "name": "Al-Hijrh 197",
+    "lat": 21.38892,
+    "lon": 39.84307
+  },
+  {
+    "id": "4-42",
+    "name": "Al-Hijrh 198",
+    "lat": 21.38886,
+    "lon": 39.83942
+  },
+  {
+    "id": "3-75",
+    "name": "Al-Mansour 53",
+    "lat": 21.41568,
+    "lon": 39.80674
+  },
+  {
+    "id": "5-10",
+    "name": "Al-Assaf Mosque 417",
+    "lat": 21.35219,
+    "lon": 39.89831
+  },
+  {
+    "id": "4-54",
+    "name": "Al-Naseem 388",
+    "lat": 21.3747,
+    "lon": 39.87887
+  },
+  {
+    "id": "5-22",
+    "name": "Security Forces, Hospital 391",
+    "lat": 21.3636,
+    "lon": 39.89315
+  },
+  {
+    "id": "3-85",
+    "name": "Al-Mansour 64",
+    "lat": 21.43739,
+    "lon": 39.80477
+  },
+  {
+    "id": "4-55",
+    "name": "Maternity & Children Hospital 389",
+    "lat": 21.37454,
+    "lon": 39.87993
+  },
+  {
+    "id": "5-23",
+    "name": "Al-Awali 435",
+    "lat": 21.36136,
+    "lon": 39.88803
+  },
+  {
+    "id": "3-83",
+    "name": "Al-Mansour 56",
+    "lat": 21.43631,
+    "lon": 39.80483
+  },
+  {
+    "id": "5-24",
+    "name": "Al-Awali 425",
+    "lat": 21.36171,
+    "lon": 39.88819
+  },
+  {
+    "id": "5-25",
+    "name": "Al Awali 439",
+    "lat": 21.36058,
+    "lon": 39.88281
+  },
+  {
+    "id": "4-58",
+    "name": "Al-Ejabaa Mosque 143",
+    "lat": 21.44172,
+    "lon": 39.83815
+  },
+  {
+    "id": "3-81",
+    "name": "Al-Mansour 59",
+    "lat": 21.42947,
+    "lon": 39.80663
+  },
+  {
+    "id": "4-59",
+    "name": "Al-Masjid Al-Haram road 141",
+    "lat": 21.43904,
+    "lon": 39.83301
+  },
+  {
+    "id": "3-80",
+    "name": "Al-Mansour 62",
+    "lat": 21.4295,
+    "lon": 39.80692
+  },
+  {
+    "id": "3-89",
+    "name": "Makkah Museum 101",
+    "lat": 21.44499,
+    "lon": 39.80881
+  },
+  {
+    "id": "3-88",
+    "name": "Al-Zaher 102",
+    "lat": 21.44546,
+    "lon": 39.80901
+  },
+  {
+    "id": "3-87",
+    "name": "King Abdulaziz Hospital 99",
+    "lat": 21.44354,
+    "lon": 39.80911
+  },
+  {
+    "id": "4-52",
+    "name": "Al-Rajhi Mosque 386",
+    "lat": 21.38012,
+    "lon": 39.87603
+  },
+  {
+    "id": "5-20",
+    "name": "Government Departments Compound 393",
+    "lat": 21.36242,
+    "lon": 39.89837
+  },
+  {
+    "id": "3-86",
+    "name": "Civil Affairs 100",
+    "lat": 21.44314,
+    "lon": 39.8095
+  },
+  {
+    "id": "5-21",
+    "name": "Security Forces Hospital 392",
+    "lat": 21.3629,
+    "lon": 39.89335
+  },
+  {
+    "id": "4-53",
+    "name": "King Abdullah Park 387",
+    "lat": 21.37874,
+    "lon": 39.87706
+  },
+  {
+    "id": "5-19",
+    "name": "Al-Awali 394",
+    "lat": 21.36139,
+    "lon": 39.90007
+  },
+  {
+    "id": "3-96",
+    "name": "Al-Laith road 255",
+    "lat": 21.35948,
+    "lon": 39.79348
+  },
+  {
+    "id": "4-65",
+    "name": "Al-Naseem Walkway 403",
+    "lat": 21.3755,
+    "lon": 39.87443
+  },
+  {
+    "id": "3-95",
+    "name": "Al-Laith road 256",
+    "lat": 21.35894,
+    "lon": 39.79237
+  },
+  {
+    "id": "4-66",
+    "name": "Al-Naseem Walkway 404",
+    "lat": 21.36862,
+    "lon": 39.87334
+  },
+  {
+    "id": "3-94",
+    "name": "Al-Laith road 253",
+    "lat": 21.3638,
+    "lon": 39.79663
+  },
+  {
+    "id": "4-67",
+    "name": "Al-Naseem Walkway 405",
+    "lat": 21.36448,
+    "lon": 39.87347
+  },
+  {
+    "id": "3-93",
+    "name": "Al-Laith road 254",
+    "lat": 21.36259,
+    "lon": 39.79495
+  },
+  {
+    "id": "3-92",
+    "name": "Al-Laith road 251",
+    "lat": 21.36702,
+    "lon": 39.80006
+  },
+  {
+    "id": "3-91",
+    "name": "Al-Laith road 252",
+    "lat": 21.36744,
+    "lon": 39.79976
+  },
+  {
+    "id": "3-90",
+    "name": "Zamzam Factory 28",
+    "lat": 21.39024,
+    "lon": 39.82531
+  },
+  {
+    "id": "4-60",
+    "name": "Al-Masjid Al-Haram road 140",
+    "lat": 21.43873,
+    "lon": 39.83367
+  },
+  {
+    "id": "4-61",
+    "name": "Al Muallaa Cemetery 139",
+    "lat": 21.43655,
+    "lon": 39.83098
+  },
+  {
+    "id": "4-62",
+    "name": "Al Muallaa Cemetery 138",
+    "lat": 21.4361,
+    "lon": 39.83098
+  },
+  {
+    "id": "3-99",
+    "name": "Central Bank 51",
+    "lat": 21.4123,
+    "lon": 39.80735
+  },
+  {
+    "id": "3-98",
+    "name": "Al-Laith road 257",
+    "lat": 21.35313,
+    "lon": 39.78675
+  },
+  {
+    "id": "4-63",
+    "name": "Jinn Mosque 137",
+    "lat": 21.43312,
+    "lon": 39.82901
+  },
+  {
+    "id": "3-97",
+    "name": "Abu Baker Al-Sideeq Mosque 258",
+    "lat": 21.35387,
+    "lon": 39.78693
+  },
+  {
+    "id": "4-64",
+    "name": "Al-Masjid Al-Haram road 136",
+    "lat": 21.43338,
+    "lon": 39.82941
+  },
+  {
+    "id": "11-84",
+    "name": "Naseer Mosque 300",
+    "lat": 21.39888,
+    "lon": 39.78114
+  },
+  {
+    "id": "6-13",
+    "name": "Al-Awali 395",
+    "lat": 21.35925,
+    "lon": 39.91318
+  },
+  {
+    "id": "4-76",
+    "name": "Kudai 19",
+    "lat": 21.40885,
+    "lon": 39.82941
+  },
+  {
+    "id": "11-83",
+    "name": "Al-Shoqiyah  283",
+    "lat": 21.37234,
+    "lon": 39.80168
+  },
+  {
+    "id": "4-77",
+    "name": "Al-Masjid Al-Haram road 165",
+    "lat": 21.39728,
+    "lon": 39.88792
+  },
+  {
+    "id": "6-12",
+    "name": "Al-Awali 397",
+    "lat": 21.35756,
+    "lon": 39.9179
+  },
+  {
+    "id": "11-86",
+    "name": "Al-Hujun 70",
+    "lat": 21.44015,
+    "lon": 39.79612
+  },
+  {
+    "id": "6-15",
+    "name": "Al Abdeyah, Um Al-Qurah University 398",
+    "lat": 21.3288,
+    "lon": 39.94583
+  },
+  {
+    "id": "11-85",
+    "name": "Al-Hujun 67",
+    "lat": 21.43991,
+    "lon": 39.79504
+  },
+  {
+    "id": "4-79",
+    "name": "Al-Masjid Al-Haram road 167",
+    "lat": 21.39407,
+    "lon": 39.89425
+  },
+  {
+    "id": "6-14",
+    "name": "Al Abdeyah, Um Al-Qurah University 399",
+    "lat": 21.32463,
+    "lon": 39.95388
+  },
+  {
+    "id": "6-17",
+    "name": "Azizyah 179",
+    "lat": 21.38838,
+    "lon": 39.87376
+  },
+  {
+    "id": "11-87",
+    "name": "Al Shoqiyah 301",
+    "lat": 21.37552,
+    "lon": 39.78108
+  },
+  {
+    "id": "6-16",
+    "name": "Azizyah 178",
+    "lat": 21.38864,
+    "lon": 39.87319
+  },
+  {
+    "id": "6-19",
+    "name": "Azizyah 175",
+    "lat": 21.40555,
+    "lon": 39.86229
+  },
+  {
+    "id": "11-89",
+    "name": "Al Shoqiyah 302",
+    "lat": 21.38034,
+    "lon": 39.78375
+  },
+  {
+    "id": "4-70",
+    "name": "Kudai 25",
+    "lat": 21.40085,
+    "lon": 39.83064
+  },
+  {
+    "id": "4-71",
+    "name": "Kudai 22",
+    "lat": 21.40386,
+    "lon": 39.83014
+  },
+  {
+    "id": "11-80",
+    "name": "Al-Kakiyyah 250",
+    "lat": 21.38686,
+    "lon": 39.80765
+  },
+  {
+    "id": "4-72",
+    "name": "Kudai 23",
+    "lat": 21.40574,
+    "lon": 39.83025
+  },
+  {
+    "id": "4-73",
+    "name": "Kudai 20",
+    "lat": 21.40708,
+    "lon": 39.82958
+  },
+  {
+    "id": "11-82",
+    "name": "Al-Shoqiyah 284",
+    "lat": 21.37332,
+    "lon": 39.80138
+  },
+  {
+    "id": "6-10",
+    "name": "Al-Naseem 390",
+    "lat": 21.37129,
+    "lon": 39.88243
+  },
+  {
+    "id": "4-75",
+    "name": "Kudai 18",
+    "lat": 21.40962,
+    "lon": 39.829
+  },
+  {
+    "id": "5-59",
+    "name": "Al-Awali 442",
+    "lat": 21.35975,
+    "lon": 39.87709
+  },
+  {
+    "id": "4-80",
+    "name": "Al-Masjid Al-Haram Road 142",
+    "lat": 21.44146,
+    "lon": 39.83773
+  },
+  {
+    "id": "11-90",
+    "name": "Al Shoqiyah 303",
+    "lat": 21.38077,
+    "lon": 39.7785
+  },
+  {
+    "id": "6-22",
+    "name": "Azizyah 452",
+    "lat": 21.39427,
+    "lon": 39.86877
+  },
+  {
+    "id": "6-21",
+    "name": "Azizyah 455",
+    "lat": 21.39648,
+    "lon": 39.86682
+  },
+  {
+    "id": "11-62",
+    "name": "Al-Hujun72",
+    "lat": 21.43998,
+    "lon": 39.79214
+  },
+  {
+    "id": "5-66",
+    "name": "Al-Awali 406",
+    "lat": 21.3582,
+    "lon": 39.8744
+  },
+  {
+    "id": "11-61",
+    "name": "Al-Hujun 69",
+    "lat": 21.43977,
+    "lon": 39.79179
+  },
+  {
+    "id": "5-67",
+    "name": "Al-Naseem Walkway 407",
+    "lat": 21.37079,
+    "lon": 39.87366
+  },
+  {
+    "id": "11-64",
+    "name": "Al-Hujun 68",
+    "lat": 21.4405,
+    "lon": 39.80069
+  },
+  {
+    "id": "5-68",
+    "name": "Al-Naseem Walkway 408",
+    "lat": 21.37527,
+    "lon": 39.8748
+  },
+  {
+    "id": "11-63",
+    "name": "Al-Hujun 65",
+    "lat": 21.44012,
+    "lon": 39.79992
+  },
+  {
+    "id": "11-66",
+    "name": "King Abdulaziz General Hospital 52",
+    "lat": 21.4413,
+    "lon": 39.80495
+  },
+  {
+    "id": "11-65",
+    "name": "Al-Hujun 63",
+    "lat": 21.44103,
+    "lon": 39.80715
+  },
+  {
+    "id": "11-68",
+    "name": "Al-Shoqiyah  274",
+    "lat": 21.37422,
+    "lon": 39.79424
+  },
+  {
+    "id": "11-67",
+    "name": "Al-Shoqiyah  273",
+    "lat": 21.37422,
+    "lon": 39.79393
+  },
+  {
+    "id": "5-60",
+    "name": "Al-Naseem 402",
+    "lat": 21.36053,
+    "lon": 39.87768
+  },
+  {
+    "id": "5-61",
+    "name": "Al-Naseem 401",
+    "lat": 21.3635,
+    "lon": 39.87391
+  },
+  {
+    "id": "10-90",
+    "name": "Ash Shara'i 503",
+    "lat": 21.48399,
+    "lon": 39.93914
+  },
+  {
+    "id": "5-62",
+    "name": "Al-Naseem 400",
+    "lat": 21.36735,
+    "lon": 39.88451
+  },
+  {
+    "id": "11-60",
+    "name": "Abdullah Arif 74",
+    "lat": 21.43535,
+    "lon": 39.78997
+  },
+  {
+    "id": "5-65",
+    "name": "Al-Awali 407",
+    "lat": 21.35864,
+    "lon": 39.87403
+  },
+  {
+    "id": "11-69",
+    "name": "Al-Shoqiyah  271",
+    "lat": 21.37078,
+    "lon": 39.78965
+  },
+  {
+    "id": "11-73",
+    "name": "Al-Eskan 209",
+    "lat": 21.40522,
+    "lon": 39.78318
+  },
+  {
+    "id": "11-72",
+    "name": "Al-Rusaifah 212",
+    "lat": 21.40657,
+    "lon": 39.78355
+  },
+  {
+    "id": "11-75",
+    "name": "Al-Shoqiyah 269",
+    "lat": 21.36511,
+    "lon": 39.79147
+  },
+  {
+    "id": "11-74",
+    "name": "Al-Shoqiyah 270",
+    "lat": 21.3681,
+    "lon": 39.7897
+  },
+  {
+    "id": "11-77",
+    "name": "Al-Kakiyyah 247",
+    "lat": 21.38099,
+    "lon": 39.80669
+  },
+  {
+    "id": "11-79",
+    "name": "Al-Kakiyyah, Girl School Complex 249",
+    "lat": 21.38624,
+    "lon": 39.8081
+  },
+  {
+    "id": "11-78",
+    "name": "Al-Kakiyyah 248",
+    "lat": 21.38132,
+    "lon": 39.80628
+  },
+  {
+    "id": "11-71",
+    "name": "Ash Shuhada 109",
+    "lat": 21.457,
+    "lon": 39.80922
+  },
+  {
+    "id": "11-70",
+    "name": "Al-Shoqiyah  272",
+    "lat": 21.37048,
+    "lon": 39.78954
+  },
+  {
+    "id": "11-40",
+    "name": "Al-Shoqiyah  293",
+    "lat": 21.38809,
+    "lon": 39.78654
+  },
+  {
+    "id": "7-25",
+    "name": "Shubaikah 439",
+    "lat": 21.42223,
+    "lon": 39.82143
+  },
+  {
+    "id": "11-42",
+    "name": "Al-Shoqiyah  295",
+    "lat": 21.39419,
+    "lon": 39.78553
+  },
+  {
+    "id": "12-10",
+    "name": "Al-Zaher 96",
+    "lat": 21.43574,
+    "lon": 39.81095
+  },
+  {
+    "id": "10-74",
+    "name": "Ju'ranah Mosque 436",
+    "lat": 21.56791,
+    "lon": 39.95117
+  },
+  {
+    "id": "11-41",
+    "name": "Al-Shoqiyah  296",
+    "lat": 21.39466,
+    "lon": 39.78572
+  },
+  {
+    "id": "11-44",
+    "name": "Al-Shoqiyah  297",
+    "lat": 21.39778,
+    "lon": 39.7845
+  },
+  {
+    "id": "10-76",
+    "name": "Al-Hajj road 112",
+    "lat": 21.45357,
+    "lon": 39.81237
+  },
+  {
+    "id": "11-43",
+    "name": "Al-Shoqiyah  298",
+    "lat": 21.39803,
+    "lon": 39.78467
+  },
+  {
+    "id": "11-46",
+    "name": "Al- Ruasifah 86",
+    "lat": 21.40224,
+    "lon": 39.78761
+  },
+  {
+    "id": "11-45",
+    "name": "Al-Khair Mosque 85",
+    "lat": 21.40209,
+    "lon": 39.78787
+  },
+  {
+    "id": "10-77",
+    "name": "Al-Hajj road 113",
+    "lat": 21.45386,
+    "lon": 39.81222
+  },
+  {
+    "id": "12-13",
+    "name": "Jarwal 5",
+    "lat": 21.43038,
+    "lon": 39.81209
+  },
+  {
+    "id": "7-23",
+    "name": "Al-Haramain Train Station 79",
+    "lat": 21.41327,
+    "lon": 39.78326
+  },
+  {
+    "id": "10-70",
+    "name": "Ju'ranah 433",
+    "lat": 21.54758,
+    "lon": 39.94783
+  },
+  {
+    "id": "12-3",
+    "name": "Al-Buhayrat 323",
+    "lat": 21.47541,
+    "lon": 39.79613
+  },
+  {
+    "id": "12-2",
+    "name": "Al-Wahda Club 326",
+    "lat": 21.47798,
+    "lon": 39.79624
+  },
+  {
+    "id": "12-1",
+    "name": "Al-Buhayratt 325",
+    "lat": 21.47876,
+    "lon": 39.79545
+  },
+  {
+    "id": "11-48",
+    "name": "Al-Rusaifah 84",
+    "lat": 21.40615,
+    "lon": 39.78788
+  },
+  {
+    "id": "12-16",
+    "name": "Ayesha Mosque 350",
+    "lat": 21.46756,
+    "lon": 39.80192
+  },
+  {
+    "id": "11-47",
+    "name": "Al-Rusaifah 83",
+    "lat": 21.40615,
+    "lon": 39.78815
+  },
+  {
+    "id": "12-15",
+    "name": "Ayesha Mosque 314",
+    "lat": 21.46781,
+    "lon": 39.80008
+  },
+  {
+    "id": "12-9",
+    "name": "Ash Shuhadaa 105",
+    "lat": 21.45585,
+    "lon": 39.80754
+  },
+  {
+    "id": "11-49",
+    "name": "Abdullah Arif 81",
+    "lat": 21.41327,
+    "lon": 39.79025
+  },
+  {
+    "id": "12-8",
+    "name": "Ash Shuhadaa 106",
+    "lat": 21.45582,
+    "lon": 39.80778
+  },
+  {
+    "id": "9-0",
+    "name": "Ash Shara'I 437",
+    "lat": 21.46296,
+    "lon": 39.96969
+  },
+  {
+    "id": "9-1",
+    "name": "Ash Shara'I 385",
+    "lat": 21.46428,
+    "lon": 39.97158
+  },
+  {
+    "id": "12-5",
+    "name": "At Taniem 321",
+    "lat": 21.46938,
+    "lon": 39.79777
+  },
+  {
+    "id": "9-2",
+    "name": "Ash Shara'I 384",
+    "lat": 21.45939,
+    "lon": 39.96092
+  },
+  {
+    "id": "12-4",
+    "name": "At Taniem 324",
+    "lat": 21.47193,
+    "lon": 39.79743
+  },
+  {
+    "id": "9-3",
+    "name": "Ash Shara'I 383",
+    "lat": 21.45996,
+    "lon": 39.96091
+  },
+  {
+    "id": "11-51",
+    "name": "Princess Hessa Al-Sudairy Mosque 77",
+    "lat": 21.41681,
+    "lon": 39.79127
+  },
+  {
+    "id": "9-4",
+    "name": "Ash Shara'I 382",
+    "lat": 21.45942,
+    "lon": 39.9479
+  },
+  {
+    "id": "11-50",
+    "name": "Abdullah Arif 82",
+    "lat": 21.41049,
+    "lon": 39.78914
+  },
+  {
+    "id": "9-5",
+    "name": "Ash Shara'I 381",
+    "lat": 21.4601,
+    "lon": 39.94821
+  },
+  {
+    "id": "10-85",
+    "name": "Al-Hujun 447",
+    "lat": 21.43866,
+    "lon": 39.82076
+  },
+  {
+    "id": "9-6",
+    "name": "Ash Shara'I 379",
+    "lat": 21.46966,
+    "lon": 39.94294
+  },
+  {
+    "id": "10-84",
+    "name": "Al-Hujun 84",
+    "lat": 21.43821,
+    "lon": 39.82159
+  },
+  {
+    "id": "9-7",
+    "name": "Ash Shara'i 380",
+    "lat": 21.47073,
+    "lon": 39.94167
+  },
+  {
+    "id": "11-55",
+    "name": "Abdullah Arif 75",
+    "lat": 21.42654,
+    "lon": 39.78945
+  },
+  {
+    "id": "10-87",
+    "name": "El Emara 100",
+    "lat": 21.4393,
+    "lon": 39.84913
+  },
+  {
+    "id": "9-8",
+    "name": "Al-Khadrah 377",
+    "lat": 21.47142,
+    "lon": 39.93231
+  },
+  {
+    "id": "9-9",
+    "name": "Ash Shara'i Cemetry 378",
+    "lat": 21.47216,
+    "lon": 39.93321
+  },
+  {
+    "id": "11-57",
+    "name": "College of Technology - Girls 73",
+    "lat": 21.42939,
+    "lon": 39.78969
+  },
+  {
+    "id": "11-56",
+    "name": "Abdullah Arif 78",
+    "lat": 21.42683,
+    "lon": 39.78911
+  },
+  {
+    "id": "10-81",
+    "name": "Al-Hujun 81",
+    "lat": 21.44005,
+    "lon": 39.81415
+  },
+  {
+    "id": "10-80",
+    "name": "Al-Hujun 80",
+    "lat": 21.43967,
+    "lon": 39.81485
+  },
+  {
+    "id": "3-100",
+    "name": "Al-Mansour 49",
+    "lat": 21.4099,
+    "lon": 39.8081
+  },
+  {
+    "id": "11-59",
+    "name": "Abdullah Arif 71",
+    "lat": 21.43463,
+    "lon": 39.79025
+  },
+  {
+    "id": "11-58",
+    "name": "College of Technology - Girls 76",
+    "lat": 21.42939,
+    "lon": 39.78942
+  },
+  {
+    "id": "3-101",
+    "name": "Al Mansour 66",
+    "lat": 21.41254,
+    "lon": 39.8076
+  },
+  {
+    "id": "10-50",
+    "name": "Ash Shara'i 390",
+    "lat": 21.4854,
+    "lon": 39.94005
+  },
+  {
+    "id": "10-52",
+    "name": "Ash Shara'i 369",
+    "lat": 21.4862,
+    "lon": 39.944
+  },
+  {
+    "id": "10-51",
+    "name": "Ash Shara'i 370",
+    "lat": 21.48702,
+    "lon": 39.94931
+  },
+  {
+    "id": "11-22",
+    "name": "Abdullah Bin Al-Zubair Mosque 260",
+    "lat": 21.36058,
+    "lon": 39.78819
+  },
+  {
+    "id": "10-53",
+    "name": "Ash Shara'i 371",
+    "lat": 21.48724,
+    "lon": 39.95295
+  },
+  {
+    "id": "11-21",
+    "name": "Al-Muhamadyah 259",
+    "lat": 21.35858,
+    "lon": 39.79013
+  },
+  {
+    "id": "8-18",
+    "name": "Al-Masjid Al-Haram road 150",
+    "lat": 21.4251,
+    "lon": 39.8571
+  },
+  {
+    "id": "11-24",
+    "name": "Al-Shoqiyah Walkway 261",
+    "lat": 21.36172,
+    "lon": 39.78574
+  },
+  {
+    "id": "10-55",
+    "name": "Ash Shara'i 372",
+    "lat": 21.48764,
+    "lon": 39.95642
+  },
+  {
+    "id": "8-19",
+    "name": "Islamic World League 304",
+    "lat": 21.43752,
+    "lon": 39.75939
+  },
+  {
+    "id": "11-23",
+    "name": "Al-Shoqiyah Walkway 262",
+    "lat": 21.36177,
+    "lon": 39.78633
+  },
+  {
+    "id": "11-3",
+    "name": "Ibrahim Al-Khalil 16",
+    "lat": 21.40159,
+    "lon": 39.81494
+  },
+  {
+    "id": "11-2",
+    "name": "Ibrahim Al-Khalil 15",
+    "lat": 21.40162,
+    "lon": 39.81533
+  },
+  {
+    "id": "11-1",
+    "name": "Ibrahim Al-Khalil 17",
+    "lat": 21.39868,
+    "lon": 39.81155
+  },
+  {
+    "id": "11-26",
+    "name": "Al-Shoqiyah Walkway 263",
+    "lat": 21.36502,
+    "lon": 39.79253
+  },
+  {
+    "id": "10-57",
+    "name": "Ash Shara'i 424",
+    "lat": 21.48822,
+    "lon": 39.96295
+  },
+  {
+    "id": "11-25",
+    "name": "Al-Shoqiyah Walkway 264",
+    "lat": 21.36515,
+    "lon": 39.79307
+  },
+  {
+    "id": "11-28",
+    "name": "Al-Shoqiyah Walkway 265",
+    "lat": 21.36885,
+    "lon": 39.79518
+  },
+  {
+    "id": "11-9",
+    "name": "Ibrahim Al-Khalil 10",
+    "lat": 21.41271,
+    "lon": 39.82152
+  },
+  {
+    "id": "11-27",
+    "name": "Al-Shoqiyah Walkway 266",
+    "lat": 21.36788,
+    "lon": 39.79495
+  },
+  {
+    "id": "11-8",
+    "name": "Ibrahim Al-Khalil 9",
+    "lat": 21.41274,
+    "lon": 39.82179
+  },
+  {
+    "id": "8-1",
+    "name": "Kiswa Al-Ka'aba Factory 305",
+    "lat": 21.43464,
+    "lon": 39.75519
+  },
+  {
+    "id": "11-7",
+    "name": "Ibrahim Al-Khalil 11",
+    "lat": 21.40882,
+    "lon": 39.81893
+  },
+  {
+    "id": "11-29",
+    "name": "Al-Shoqiyah Walkway 268",
+    "lat": 21.37188,
+    "lon": 39.79937
+  },
+  {
+    "id": "11-6",
+    "name": "Ibrahim Al-Khalil 12",
+    "lat": 21.40858,
+    "lon": 39.81916
+  },
+  {
+    "id": "8-3",
+    "name": "Al-Hamraa 302",
+    "lat": 21.43975,
+    "lon": 39.76483
+  },
+  {
+    "id": "11-5",
+    "name": "Ibrahim Al-Khalil 14",
+    "lat": 21.40557,
+    "lon": 39.81773
+  },
+  {
+    "id": "8-4",
+    "name": "Al-Sabaan Mosque 93",
+    "lat": 21.4403,
+    "lon": 39.78326
+  },
+  {
+    "id": "10-61",
+    "name": "Ju'ranah 426",
+    "lat": 21.49366,
+    "lon": 39.96709
+  },
+  {
+    "id": "8-27",
+    "name": "Al-Hamraa 352",
+    "lat": 21.43205,
+    "lon": 39.74923
+  },
+  {
+    "id": "8-6",
+    "name": "Al-Nuzhah 91",
+    "lat": 21.43514,
+    "lon": 39.79694
+  },
+  {
+    "id": "11-31",
+    "name": "Al-Shoqiyah  286",
+    "lat": 21.37556,
+    "lon": 39.79844
+  },
+  {
+    "id": "10-63",
+    "name": "Ju'ranah 427",
+    "lat": 21.50023,
+    "lon": 39.965
+  },
+  {
+    "id": "8-7",
+    "name": "Al-Nuzhah 90",
+    "lat": 21.43622,
+    "lon": 39.79581
+  },
+  {
+    "id": "8-8",
+    "name": "Al-Nuzhah 89",
+    "lat": 21.43255,
+    "lon": 39.80004
+  },
+  {
+    "id": "11-30",
+    "name": "Al-Shoqiyah Walkway 267",
+    "lat": 21.37201,
+    "lon": 39.79899
+  },
+  {
+    "id": "11-33",
+    "name": "Al-Shoqiyah  288",
+    "lat": 21.37661,
+    "lon": 39.79093
+  },
+  {
+    "id": "8-9",
+    "name": "Al-Nuzhah 88",
+    "lat": 21.43293,
+    "lon": 39.79992
+  },
+  {
+    "id": "11-32",
+    "name": "Al-Shoqiyah  285",
+    "lat": 21.37576,
+    "lon": 39.79676
+  },
+  {
+    "id": "11-35",
+    "name": "Zainab Al-Hilalyia Walkway 290",
+    "lat": 21.37984,
+    "lon": 39.7879
+  },
+  {
+    "id": "10-67",
+    "name": "Ju'ranah 430",
+    "lat": 21.54069,
+    "lon": 39.94924
+  },
+  {
+    "id": "11-34",
+    "name": "Al-Shoqiyah  287",
+    "lat": 21.37627,
+    "lon": 39.79175
+  },
+  {
+    "id": "8-20",
+    "name": "King Faisal School 303",
+    "lat": 21.43739,
+    "lon": 39.75971
+  },
+  {
+    "id": "8-23",
+    "name": "Al-Falah Schools 54",
+    "lat": 21.43354,
+    "lon": 39.80395
+  },
+  {
+    "id": "8-21",
+    "name": "Al-Hamraa 301",
+    "lat": 21.43922,
+    "lon": 39.76996
+  },
+  {
+    "id": "8-22",
+    "name": "Al-Hamraa 299",
+    "lat": 21.4389,
+    "lon": 39.77016
+  },
+  {
+    "id": "11-37",
+    "name": "Al-Shoqiyah  292",
+    "lat": 21.38374,
+    "lon": 39.78753
+  },
+  {
+    "id": "10-69",
+    "name": "Ju'ranah 432",
+    "lat": 21.54893,
+    "lon": 39.94716
+  },
+  {
+    "id": "11-36",
+    "name": "Zainab Al-Hilalyia Walkway 289",
+    "lat": 21.37977,
+    "lon": 39.7876
+  },
+  {
+    "id": "10-68",
+    "name": "Ju'ranah 431",
+    "lat": 21.54053,
+    "lon": 39.94975
+  },
+  {
+    "id": "11-38",
+    "name": "Al-Shoqiyah  291",
+    "lat": 21.38389,
+    "lon": 39.78727
+  }
+]

@@ -1,0 +1,19 @@
+{
+"evaluations": {
+"cleanliness": {
+"type": "enum",
+"buckets": ["Excellent", "Good", "Average", "Poor", "Unrated"],
+"colors": ["#1b9e77", "#66a61e", "#e6ab02", "#d95f02", "#757575"],
+"default": "Unrated",
+"label": {"en": "General Cleanliness", "ar": "النظافة العامة"}
+},
+"lighting": {
+"type": "enum",
+"buckets": ["Excellent", "Good", "Average", "Poor", "Unrated"],
+"colors": ["#2166ac", "#67a9cf", "#d1e5f0", "#fddbc7", "#bdbdbd"],
+"default": "Unrated",
+"label": {"en": "Lighting", "ar": "الاضاءة"}
+}
+},
+"colorByDefault": "cleanliness"
+}

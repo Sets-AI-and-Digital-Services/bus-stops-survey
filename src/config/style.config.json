@@ -1,0 +1,65 @@
+{
+    "evaluations": {
+        "1._general_cleanliness": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "very good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unrated"
+            ],
+            "colors": [
+                "#1b9e77",
+                "#06a61e",
+                "#86a61e",
+                "#e6ab02",
+                "#d95f02",
+                "#757575"
+            ],
+            "label": "General Cleanliness"
+        },
+        "7._red_carpet_status": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "very good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unrated"
+            ],
+            "colors": [
+                "#3288bd",
+                "#1b9e60",
+                "#66c2a5",
+                "#fee08b",
+                "#f46d43",
+                "#bdbdbd"
+            ],
+            "label": "Red Carpet Status"
+        },
+        "16._trash_bins": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "very good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unrated"
+            ],
+            "colors": [
+                "#31a354",
+                "#1b9e40",
+                "#74c476",
+                "#a1d99b",
+                "#e34a33",
+                "#bdbdbd"
+            ],
+            "label": "Trash Bins"
+        }
+    },
+    "colorByDefault": "1._general_cleanliness"
+}
