@@ -1,5 +1,5 @@
 import { Fragment, useMemo, useRef } from 'react';
-import { Marker, Tooltip } from 'react-leaflet';
+import { Marker, Popup, Tooltip } from 'react-leaflet';
 import L from 'leaflet';
 import type { Station } from '../../infra/data/dataset';
 import { useFiltersStore } from '../../app/store/filters.store';
@@ -12,10 +12,29 @@ function toBucketForAxis(axis: string, raw: unknown): string {
 }
 
 function markerKey(s: Station) {
-  const id = String(s.id ?? '').trim().toLowerCase();
+  const id = String(s.id ?? '')
+    .trim()
+    .toLowerCase();
   const lat = s.lat != null ? s.lat.toFixed(6) : 'x';
   const lon = s.lon != null ? s.lon.toFixed(6) : 'x';
   return `${id}|${lat}|${lon}`;
+}
+function toDrivePreviewUrl(value: unknown): string | null {
+  if (typeof value !== 'string') return null;
+
+  // Handle links like https://drive.google.com/open?id=FILE_ID
+  const openIdMatch = value.match(/open\?id=([^&]+)/);
+  if (openIdMatch) {
+    return `https://drive.google.com/file/d/${openIdMatch[1]}/preview`;
+  }
+
+  // Handle links like https://drive.google.com/file/d/FILE_ID/view
+  const fileIdMatch = value.match(/file\/d\/([^/]+)/);
+  if (fileIdMatch) {
+    return `https://drive.google.com/file/d/${fileIdMatch[1]}/preview`;
+  }
+
+  return null;
 }
 
 // Normalize width/height once so we can control size via iconSize
@@ -42,8 +61,8 @@ export default function MarkerLayerRL({ data }: { data: Station[] }) {
       icon = L.divIcon({
         className: 'marker-svg', // optional class for extra CSS if needed
         html: tintedSvg,
-        iconSize: [25, 25],      // tweak size as you like
-        iconAnchor: [11, 11],    // center the icon
+        iconSize: [25, 25], // tweak size as you like
+        iconAnchor: [11, 11], // center the icon
       });
       cache.set(color, icon);
     }
@@ -79,8 +98,33 @@ export default function MarkerLayerRL({ data }: { data: Station[] }) {
           key={key}
           position={[s.lat as number, s.lon as number]}
           icon={getIconForColor(color)}
+          eventHandlers={{
+            mouseover: (e) => e.target.openPopup(),
+            mouseout: (e) => e.target.closePopup(),
+          }}
         >
-          <Tooltip>{s.name}</Tooltip>
+          {/* <Tooltip>{s.name}</Tooltip> */}
+          <Popup>
+            <div style={{ textAlign: 'center' }}>
+              <p>{s.name}</p>
+              {(() => {
+                const previewUrl = toDrivePreviewUrl(
+                  s.evaluations['18._upload_general_image_of_the_station'],
+                );
+                return previewUrl ? (
+                  <iframe
+                    src={previewUrl}
+                    width="250"
+                    height="180"
+                    allow="autoplay"
+                    style={{ border: 0 }}
+                  />
+                ) : (
+                  <p>No image available</p>
+                );
+              })()}
+            </div>
+          </Popup>
         </Marker>
       ))}
     </Fragment>

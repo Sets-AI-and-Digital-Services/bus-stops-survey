@@ -18,14 +18,13 @@ export function normalizeCategory(v: unknown):
     s = ascii.test(b) && !ascii.test(a) ? b : a;
   }
 
-  console.log({ s });
 
   // availability first
   if (/^not\s*available$/i.test(s) || s === 'غير متاح') return 'Not available';
   if (/^available$/i.test(s) || s === 'متاح') return 'Available';
 
   // N/A family
-  if (s === 'n/a' || s === 'na' ||s === 'n' || s === 'لا ينطبق') return 'N/A';
+  if (s === 'n/a' || s === 'na' || s === 'n' || s === 'لا ينطبق') return 'N/A';
 
   // quality scale (return canonical, capitalized)
   if (s.includes('very good') || s === 'جيد جدًا' || s === 'جيد جدا') return 'Very Good';
