@@ -4,59 +4,387 @@
             "type": "enum",
             "buckets": [
                 "Excellent",
-                "very good",
+                "Very Good",
                 "Good",
                 "Average",
                 "Poor",
-                "Unrated"
+                "Unacceptable",
+                "N/A"
             ],
             "colors": [
-                "#1b9e77",
-                "#06a61e",
-                "#86a61e",
-                "#e6ab02",
-                "#d95f02",
-                "#757575"
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
             ],
             "label": "General Cleanliness"
+        },
+        "2._traffic_sign_boards": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Traffic Sign Boards"
+        },
+        "3._advertisement_board": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Advertisement Board"
+        },
+        "4._passengers_information_board": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Passengers Information Board"
+        },
+        "5._arrival_time_display": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Arrival Time Display"
+        },
+        "6._bus_stop_bench_condition": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Bus Stop Bench Condition"
         },
         "7._red_carpet_status": {
             "type": "enum",
             "buckets": [
                 "Excellent",
-                "very good",
+                "Very Good",
                 "Good",
                 "Average",
                 "Poor",
-                "Unrated"
+                "Unacceptable",
+                "N/A"
             ],
             "colors": [
-                "#3288bd",
-                "#1b9e60",
-                "#66c2a5",
-                "#fee08b",
-                "#f46d43",
-                "#bdbdbd"
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
             ],
             "label": "Red Carpet Status"
+        },
+        "8._bus_stop_station_amenities": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Shades"
+        },
+        "9._glass_condition": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Lighting"
+        },
+        "10._doors_condition": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Ventilation"
+        },
+        "11._lighting_external_internal": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Fans"
+        },
+        "12._air_conditioning": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Air Conditioning"
+        },
+        "13._cctv": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "CCTV"
+        },
+        "14._pedestrian_safety": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Pedestrian Safety"
+        },
+        "15._accessible_for_special_needs": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Accessible For Special Needs"
         },
         "16._trash_bins": {
             "type": "enum",
             "buckets": [
                 "Excellent",
-                "very good",
+                "Very Good",
                 "Good",
                 "Average",
                 "Poor",
-                "Unrated"
+                "Unacceptable",
+                "N/A"
             ],
             "colors": [
-                "#31a354",
-                "#1b9e40",
-                "#74c476",
-                "#a1d99b",
-                "#e34a33",
-                "#bdbdbd"
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Trash Bins"
+        },
+        "17._ticket_vending_machine_tvm": {
+            "type": "enum",
+            "buckets": [
+                "Available",
+                "Not available",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Ticket Vending Machine (TVM)"
+        },
+         "average_score": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
             ],
             "label": "Trash Bins"
         }

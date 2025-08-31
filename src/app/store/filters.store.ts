@@ -1,17 +1,40 @@
 import { create } from 'zustand';
 
-
-interface FiltersState {
-    axis: string;
-    setAxis: (k: string) => void;
+export interface FiltersState {
+  axis: string;
+  activeBuckets: string[] | null;                  // null => show all
+  setAxis: (axis: string) => void;                 // also clears bucket selection
+  setBuckets: (buckets: string[] | null) => void;  // explicit set or null for "All"
+  resetBuckets: () => void;                        // quick "All"
+  toggleBucket: (bucket: string, allBuckets: string[]) => void; // add/remove bucket
 }
 
+export const useFiltersStore = create<FiltersState>((set, get) => ({
+  axis: '1._general_cleanliness',
+  activeBuckets: null,
 
-// export const useFiltersStore = create<FiltersState>((set) => ({
-// axis: 'cleanliness',
-// setAxis: (k) => set({ axis: k })
-// }));
-export const useFiltersStore = create<FiltersState>((set) => ({
-    axis: '1._general_cleanliness',     // <-- match key from your JSON
-    setAxis: (k) => set({ axis: k }),
+  setAxis: (axis) => set({ axis, activeBuckets: null }),
+
+  setBuckets: (buckets) => set({ activeBuckets: buckets }),
+
+  resetBuckets: () => set({ activeBuckets: null }),
+
+  toggleBucket: (bucket, allBuckets) => {
+    const curr = get().activeBuckets;
+
+    // start a selection
+    if (curr == null) {
+      return set({ activeBuckets: [bucket] });
+    }
+
+    const has = curr.includes(bucket);
+    const next = has ? curr.filter(b => b !== bucket) : [...curr, bucket];
+
+    // none or all selected => treat as "All"
+    if (next.length === 0 || next.length === allBuckets.length) {
+      return set({ activeBuckets: null });
+    }
+
+    set({ activeBuckets: next });
+  },
 }));
