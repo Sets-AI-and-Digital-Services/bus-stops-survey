@@ -12,7 +12,7 @@ export const StationsSchema = z.array(StationSchema);
 export type Station = z.infer<typeof StationSchema>;
 
 export async function loadStations() {
-  const url = `${import.meta.env.BASE_URL}data/stations.json`;  // <-- base-safe
+  const url = `${import.meta.env.BASE_URL}data/stations_with_average.json`;  // <-- base-safe
   const res = await fetch(url);
   if (!res.ok) {
     console.error(`Failed to fetch ${url}:`, res.status, res.statusText);

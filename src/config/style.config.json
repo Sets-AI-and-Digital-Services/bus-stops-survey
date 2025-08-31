@@ -365,6 +365,28 @@
                 "#9E9E9E"
             ],
             "label": "Ticket Vending Machine (TVM)"
+        },
+         "average_score": {
+            "type": "enum",
+            "buckets": [
+                "Excellent",
+                "Very Good",
+                "Good",
+                "Average",
+                "Poor",
+                "Unacceptable",
+                "N/A"
+            ],
+            "colors": [
+                "#008000",
+                "#4CAF50",
+                "#CDDC39",
+                "#FFC107",
+                "#FF5722",
+                "#FF0000",
+                "#9E9E9E"
+            ],
+            "label": "Trash Bins"
         }
     },
     "colorByDefault": "1._general_cleanliness"
